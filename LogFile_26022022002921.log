@@ -1,0 +1,107 @@
+2022-02-26 00:29:21,565 INFO ...Program starts....
+2022-02-26 00:29:23,861 INFO Fetching the input path from user. Path entered by user : C:\Users\remya\Downloads\Homework
+2022-02-26 00:29:23,861 INFO List of text files present in the given path : ['vocab.enron.txt', 'vocab.kos.txt', 'vocab.nips.txt', 'vocab.nytimes.txt', 'vocab.pubmed.txt']
+2022-02-26 00:29:23,865 INFO ...Execution started for Qn1...
+2022-02-26 00:29:23,865 INFO Reading vocab.enron.txt
+2022-02-26 00:29:23,876 INFO Fetching sorted list of all the words from vocab.enron.txt
+2022-02-26 00:29:23,896 INFO Fetching distinct words from the sorted list_of_data
+2022-02-26 00:29:33,765 INFO Finding the count of words
+2022-02-26 00:29:33,767 INFO Creating a list of tuple of each words and its count 
+2022-02-26 00:29:33,767 INFO Output stored in outputq1_vocab_enron_txt
+2022-02-26 00:29:33,767 INFO Reading vocab.kos.txt
+2022-02-26 00:29:33,770 INFO Fetching sorted list of all the words from vocab.kos.txt
+2022-02-26 00:29:33,772 INFO Fetching distinct words from the sorted list_of_data
+2022-02-26 00:29:34,338 INFO Finding the count of words
+2022-02-26 00:29:34,354 INFO Creating a list of tuple of each words and its count 
+2022-02-26 00:29:34,354 INFO Output stored in outputq1_vocab_kos_txt
+2022-02-26 00:29:34,354 INFO Reading vocab.nips.txt
+2022-02-26 00:29:34,359 INFO Fetching sorted list of all the words from vocab.nips.txt
+2022-02-26 00:29:34,363 INFO Fetching distinct words from the sorted list_of_data
+2022-02-26 00:29:36,212 INFO Finding the count of words
+2022-02-26 00:29:36,213 INFO Creating a list of tuple of each words and its count 
+2022-02-26 00:29:36,213 INFO Output stored in outputq1_vocab_nips_txt
+2022-02-26 00:29:36,213 INFO Reading vocab.nytimes.txt
+2022-02-26 00:29:36,260 INFO Fetching sorted list of all the words from vocab.nytimes.txt
+2022-02-26 00:29:36,315 INFO Fetching distinct words from the sorted list_of_data
+2022-02-26 00:32:35,141 INFO Finding the count of words
+2022-02-26 00:32:35,157 INFO Creating a list of tuple of each words and its count 
+2022-02-26 00:32:35,158 INFO Output stored in outputq1_vocab_nytimes_txt
+2022-02-26 00:32:35,158 INFO Reading vocab.pubmed.txt
+2022-02-26 00:32:35,240 INFO Fetching sorted list of all the words from vocab.pubmed.txt
+2022-02-26 00:32:35,352 INFO Fetching distinct words from the sorted list_of_data
+2022-02-26 00:39:18,034 INFO Finding the count of words
+2022-02-26 00:39:18,058 INFO Creating a list of tuple of each words and its count 
+2022-02-26 00:39:18,058 INFO Output stored in outputq1_vocab_pubmed_txt
+2022-02-26 00:39:18,058 INFO ...Execution completed for Qn1...
+2022-02-26 00:39:18,063 INFO ...Execution started for Qn2...
+2022-02-26 00:39:18,063 INFO Reading vocab.enron.txt
+2022-02-26 00:39:18,074 INFO Fetching sorted list of all the words from vocab.enron.txt
+2022-02-26 00:39:18,268 INFO Finding the count of words for each alphabet
+2022-02-26 00:39:18,268 INFO Creating a list of tuple of each alphabet and its count 
+2022-02-26 00:39:18,268 INFO Output stored in outputq2_vocab_enron_txt
+2022-02-26 00:39:18,268 INFO Reading vocab.kos.txt
+2022-02-26 00:39:18,275 INFO Fetching sorted list of all the words from vocab.kos.txt
+2022-02-26 00:39:18,307 INFO Finding the count of words for each alphabet
+2022-02-26 00:39:18,307 INFO Creating a list of tuple of each alphabet and its count 
+2022-02-26 00:39:18,307 INFO Output stored in outputq2_vocab_kos_txt
+2022-02-26 00:39:18,307 INFO Reading vocab.nips.txt
+2022-02-26 00:39:18,311 INFO Fetching sorted list of all the words from vocab.nips.txt
+2022-02-26 00:39:18,383 INFO Finding the count of words for each alphabet
+2022-02-26 00:39:18,383 INFO Creating a list of tuple of each alphabet and its count 
+2022-02-26 00:39:18,383 INFO Output stored in outputq2_vocab_nips_txt
+2022-02-26 00:39:18,383 INFO Reading vocab.nytimes.txt
+2022-02-26 00:39:18,434 INFO Fetching sorted list of all the words from vocab.nytimes.txt
+2022-02-26 00:39:19,152 INFO Finding the count of words for each alphabet
+2022-02-26 00:39:19,153 INFO Creating a list of tuple of each alphabet and its count 
+2022-02-26 00:39:19,153 INFO Output stored in outputq2_vocab_nytimes_txt
+2022-02-26 00:39:19,153 INFO Reading vocab.pubmed.txt
+2022-02-26 00:39:19,273 INFO Fetching sorted list of all the words from vocab.pubmed.txt
+2022-02-26 00:39:20,192 INFO Finding the count of words for each alphabet
+2022-02-26 00:39:20,192 INFO Creating a list of tuple of each alphabet and its count 
+2022-02-26 00:39:20,192 INFO Output stored in outputq2_vocab_pubmed_txt
+2022-02-26 00:39:20,192 INFO ...Execution completed for Qn2...
+2022-02-26 00:39:20,196 INFO ...Execution started for Qn3...
+2022-02-26 00:39:20,197 INFO Reading vocab.enron.txt
+2022-02-26 00:39:20,208 INFO Fetching sorted list of all the words from vocab.enron.txt
+2022-02-26 00:39:20,305 INFO Creating a list of all the filtered words present in the file
+2022-02-26 00:39:20,305 INFO Output stored in outputq3_vocab_enron_txt
+2022-02-26 00:39:20,306 INFO Reading vocab.kos.txt
+2022-02-26 00:39:20,309 INFO Fetching sorted list of all the words from vocab.kos.txt
+2022-02-26 00:39:20,332 INFO Creating a list of all the filtered words present in the file
+2022-02-26 00:39:20,332 INFO Output stored in outputq3_vocab_kos_txt
+2022-02-26 00:39:20,332 INFO Reading vocab.nips.txt
+2022-02-26 00:39:20,337 INFO Fetching sorted list of all the words from vocab.nips.txt
+2022-02-26 00:39:20,364 INFO Creating a list of all the filtered words present in the file
+2022-02-26 00:39:20,364 INFO Output stored in outputq3_vocab_nips_txt
+2022-02-26 00:39:20,364 INFO Reading vocab.nytimes.txt
+2022-02-26 00:39:20,412 INFO Fetching sorted list of all the words from vocab.nytimes.txt
+2022-02-26 00:39:20,825 INFO Creating a list of all the filtered words present in the file
+2022-02-26 00:39:20,826 INFO Output stored in outputq3_vocab_nytimes_txt
+2022-02-26 00:39:20,826 INFO Reading vocab.pubmed.txt
+2022-02-26 00:39:20,916 INFO Fetching sorted list of all the words from vocab.pubmed.txt
+2022-02-26 00:39:21,413 INFO Creating a list of all the filtered words present in the file
+2022-02-26 00:39:21,413 INFO Output stored in outputq3_vocab_pubmed_txt
+2022-02-26 00:39:21,413 INFO ...Execution completed for Qn3...
+2022-02-26 00:39:21,419 INFO ...Execution started for Qn4...
+2022-02-26 00:39:21,420 INFO Reading vocab.enron.txt
+2022-02-26 00:39:21,435 INFO Fetching distinct list of all the words from vocab.enron.txt
+2022-02-26 00:39:21,435 INFO list of data for vocab.enron.txt stored in list_of_data_vocab_enron_txt
+2022-02-26 00:39:21,435 INFO Reading vocab.kos.txt
+2022-02-26 00:39:21,438 INFO Fetching distinct list of all the words from vocab.kos.txt
+2022-02-26 00:39:21,438 INFO list of data for vocab.kos.txt stored in list_of_data_vocab_kos_txt
+2022-02-26 00:39:21,438 INFO Reading vocab.nips.txt
+2022-02-26 00:39:21,443 INFO Fetching distinct list of all the words from vocab.nips.txt
+2022-02-26 00:39:21,443 INFO list of data for vocab.nips.txt stored in list_of_data_vocab_nips_txt
+2022-02-26 00:39:21,443 INFO Reading vocab.nytimes.txt
+2022-02-26 00:39:21,495 INFO Fetching distinct list of all the words from vocab.nytimes.txt
+2022-02-26 00:39:21,495 INFO list of data for vocab.nytimes.txt stored in list_of_data_vocab_nytimes_txt
+2022-02-26 00:39:21,496 INFO Reading vocab.pubmed.txt
+2022-02-26 00:39:21,593 INFO Fetching distinct list of all the words from vocab.pubmed.txt
+2022-02-26 00:39:21,593 INFO list of data for vocab.pubmed.txt stored in list_of_data_vocab_pubmed_txt
+2022-02-26 00:39:21,599 INFO Common words in all 5 files are stored in outputq4
+2022-02-26 00:39:21,599 INFO Count of common words  : 2912
+2022-02-26 00:39:21,600 INFO Successfully Connected to SQLite
+2022-02-26 00:39:21,612 INFO Data in outputq4 inserted successfully into the table
+2022-02-26 00:39:21,612 INFO The SQLite connection is closed
+2022-02-26 00:39:21,612 INFO ...Execution completed for Qn4...
+2022-02-26 00:39:21,613 INFO ...Program ends...
